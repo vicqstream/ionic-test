@@ -1,0 +1,29 @@
+{
+  "name": "ionic-test",
+  "homepage": "https://github.com/vicqstream/ionic-test",
+  "authors": [
+    "vicqstream <vmuia@qstream.com>"
+  ],
+  "description": "test of ionic framework for mobile app",
+  "main": "",
+  "moduleType": [
+    "es6"
+  ],
+  "keywords": [
+    "ionic",
+    "mobile"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cordova": "~3.4.0",
+    "ionic": "~1.2.4"
+  }
+}
